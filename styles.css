@@ -1,0 +1,38 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+
+.QR_tab {
+  background-color: hsl(0, 0%, 100%);
+  width: 320px;
+  margin: 150px auto;
+  border-radius: 12px;
+}
+
+img {
+  height: 286px;
+  width: 286px;
+  margin-top: 16px;
+  border-radius: 12px;
+}
+
+.image {
+  text-align: center;
+}
+
+.instructions {
+  font-family: Outfit;
+  text-align: center;
+  margin: 35px;
+  padding-bottom: 40px;
+}
+
+p {
+  font-size: 15px;
+  color: hsl(220, 15%, 55%);
+}
+
+h1 {
+  font-size: 20px;
+  color: hsl(218, 44%, 22%);
+}
