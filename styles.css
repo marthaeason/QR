@@ -1,11 +1,13 @@
 body {
   background-color: hsl(212, 45%, 89%);
+  display: flex;
+  justify-content: center;
 }
 
 .QR_tab {
   background-color: hsl(0, 0%, 100%);
-  width: 320px;
-  margin: 150px auto;
+  max-width: 320px;
+  margin-top: 67px;
   border-radius: 12px;
 }
 
